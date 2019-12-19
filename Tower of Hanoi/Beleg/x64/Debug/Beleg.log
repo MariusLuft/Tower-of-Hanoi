@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  Beleg.cpp
+  BelegDlg.cpp
+  CDisks.cpp
+  CGame.cpp
+  CTowers.cpp
+  spritelib.cpp
+  XUnzip.cpp
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1475,1): warning C4477: "fprintf": Die Formatzeichenfolge "%lu" erfordert ein Argument vom Typ "unsigned long", das variadic-Argument "1" weist aber den Typ "__int64" auf.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1475,1): message : Verwenden Sie ggf. "%llu" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1475,1): message : Verwenden Sie ggf. "%Iu" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1475,1): message : Verwenden Sie ggf. "%I64u" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1604,1): warning C4477: "fprintf": Die Formatzeichenfolge "%lu" erfordert ein Argument vom Typ "unsigned long", das variadic-Argument "1" weist aber den Typ "__int64" auf.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1604,1): message : Verwenden Sie ggf. "%llu" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1604,1): message : Verwenden Sie ggf. "%Iu" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(1604,1): message : Verwenden Sie ggf. "%I64u" in der Formatzeichenfolge.
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3803,1): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(496): message : Siehe Deklaration von "gmtime"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3840,1): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(100): message : Siehe Deklaration von "wcscat"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3889,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : Siehe Deklaration von "strcpy"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3991,1): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(205): message : Siehe Deklaration von "wcsncpy"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3997,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : Siehe Deklaration von "wcscpy"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(3998,1): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(100): message : Siehe Deklaration von "wcscat"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(4080,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : Siehe Deklaration von "wcscpy"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\XUnzip.cpp(4171,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Code wird generiert...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : Siehe Deklaration von "strncpy"
+D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\Beleg\CGame.cpp(85): warning C4715: "CGame::Wichtower": Nicht alle Codepfade geben einen Wert zurück.
+  Beleg.vcxproj -> D:\Medieninformatik Bachelor\2. Semester\Übungen\Programmierung II\beleg_neu\x64\Debug\Beleg.exe
